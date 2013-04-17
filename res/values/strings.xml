@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MandatoryAssignment2_App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="pic_name">Default</string>
+    <string name="OK">Ok</string>
+    <string name="success">Success!</string>
+    <string name="sent">Picture Sent!</string>
+    <string name="error_title">Something wrong happened!</string>
+	<string name="error">Unknown error</string>
+</resources>
